@@ -1,1 +1,2 @@
 # odin-recipes
+This website will have links to recipes. It will require me to use the git commands to create a repository, clone it locally, and maintain it by adding, committing, and pushing it to the GitHub.
